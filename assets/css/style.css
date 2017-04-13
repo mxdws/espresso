@@ -6,7 +6,7 @@
 
 body {
 	height: 100vh;
-	background-image: url({{site.url}}/assets/css/style.css);
+	background-image: url('/assets/img/mxdbackg.jpg');
 	background-size: cover;
 	background-position: center;
 	margin-bottom: 50px;
