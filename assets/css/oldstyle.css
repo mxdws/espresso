@@ -2,17 +2,16 @@
 
 /* fonts */
 
-@import url(https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 body {
-	font: 1em/1.65em Georgia, 'Times New Roman', serif;
+	font: 1em/1.65em 'Roboto', sans-serif;
 	margin: 0;
 	padding: 0;
 }
 
 h1, h2, h3, nav, body > footer, body > header .description, .button, .meta {
-	font-family: 'Karla', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
+	font-family: 'Roboto', sans-serif;
 
 /* site header */
 
