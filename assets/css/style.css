@@ -6,7 +6,7 @@
 
 body {
 	height: 100vh;
-	background-image: url(https://unsplash.imgix.net/photo-1414490929659-9a12b7e31907);
+	background-image: url({{site.url}}/assets/css/style.css);
 	background-size: cover;
 	background-position: center;
 	margin-bottom: 50px;
