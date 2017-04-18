@@ -3,7 +3,7 @@
 // console.log('Hello world!');
 $(document).ready(function(){
 //    $("button").click(function(){
-        $("#content").fadeIn();
+        $("#content").fadeIn(3000);
 //        $("#div2").fadeIn("slow");
 //        $("#div3").fadeIn(3000);
 //    });
