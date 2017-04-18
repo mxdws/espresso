@@ -1,7 +1,10 @@
 // Your custom Javascript goes here!
 
 // console.log('Hello world!');
-$(function(){
-  $('body').css('display', 'none');
-  $('body').fadeIn(3000);
+$(document).ready(function(){
+//    $("button").click(function(){
+        $("#content").fadeIn();
+//        $("#div2").fadeIn("slow");
+//        $("#div3").fadeIn(3000);
+//    });
 });
