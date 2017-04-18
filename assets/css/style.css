@@ -5,8 +5,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
 body {
-	opacity: 1;
-	transition: 1s opacity;
 /*	display: none;*/
 	height: 100vh;
 /*	background-image: url('https://mxdws.github.io/onepage/assets/img/mxdbackg.jpg'); */
@@ -18,10 +16,6 @@ body {
 	padding: 0;
 }
 
-body.fade-out {
-	opacity: 0;
-	transition: none;
-}
 
 h1, h2, h3, nav, body > footer, body > header .description, .button, .meta {
 	font-family: 'Roboto', sans-serif;
