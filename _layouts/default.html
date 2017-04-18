@@ -17,7 +17,8 @@
     <title>{% if page.title %}{{ page.title }} | {{site.name}}{% else %}{{ site.name }}{% endif %}</title>
   </head>
 
-<body {% if %page.home %}class="home"{% endif %}>
+<body>
+  <script>document.body.className += ' fade-out';</script>
 
 {% include header.html %}
 
