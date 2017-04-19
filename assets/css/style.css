@@ -12,13 +12,20 @@ body {
 	background-position: center;
 	text-align: left;
 	font: 1em/1.65em 'Roboto', sans-serif;
-	margin: 50px;
-	padding: 0;
+	margin: 0 auto;
+	max-width: 50em;
+	line-height: 1.5;
+	padding: 4em 1em;
 }
 
 
 h1, h2, h3, nav, body > footer, body > header .description, .button, .meta {
 	font-family: 'Roboto', sans-serif;
+}
 
+h2 {
+	margin-top: 1em;
+	padding-top: 1em;
+}
 /* site header */
 
