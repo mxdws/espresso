@@ -61,17 +61,17 @@ h2 {
 }
 */ 
 
-.web, .web:visited {
+#web, #web:visited {
 	color: purple;
 	text-decoration: none;
 }
 
-.pics, .pics:visited {
+#pics, #pics:visited {
 	color: blue;
 	text-decoration: none;
 }
 
-.film, .film:visited {
+#film, #film:visited {
 	color: green;
 	text-decoration: none;
 }
