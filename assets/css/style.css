@@ -62,16 +62,19 @@ h2 {
 */ 
 
 #web, #web:visited {
-	color: purple;
+	color: red;
+	font-weight: bold;
 	text-decoration: none;
 }
 
 #pics, #pics:visited {
-	color: blue;
+	color: gold;
+	font-weight: bold;
 	text-decoration: none;
 }
 
 #film, #film:visited {
-	color: green;
+	color: royalblue;
+	font-weight: bold;
 	text-decoration: none;
 }
