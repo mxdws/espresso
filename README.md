@@ -1,4 +1,9 @@
-# HTML Boilerplate
-An incredibly simple skeleton template for [Jekyll](http://jekyllrb.com/) to get you started. It's not meant to be a perfectly complete blog theme but rather a starting point if you want to experiment with static website generators and [build your own template](https://ines.io/blog/the-ultimate-guide-static-websites-jekyll).
+# Business Card Landing Page
+A [Jekyll](http://jekyllrb.com/) template to have a couple of introductory lines and social links.
 
-*This template was originally developed for [The ultimate guide to static websites with Jekyll](https://ines.io/blog/the-ultimate-guide-static-websites-jekyll).*
+Key features
+* JQuery Fade In
+* Social Buttons
+* Fixed landing page sized to Viewport
+
+*Thanks to Ines Montani for the [template I used as a skeleton](https://ines.io/blog/the-ultimate-guide-static-websites-jekyll).*
