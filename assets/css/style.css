@@ -2,17 +2,19 @@
 body {
 /*	display: none;*/
 	height: 100vh;
-/*	background-image: url('https://mxdws.github.io/onepage/assets/img/mxdbackg.jpg'); */
+/*	
+	background-image: url('https://mxdws.github.io/onepage/assets/img/mxdbackg.jpg');
 	background-size: cover;
 	background-position: center;
+*/
+	margin: 0 auto;
+	max-width: 40em;
+	line-height: 1.5;
+	padding: 4em 1em;
 	text-align: left;
 	font: 1em/1.65em;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    	font-weight: 300;
-	margin: 0 auto;
-	max-width: 50em;
-	line-height: 1.5;
-	padding: 4em 1em;
 }
 
 
@@ -72,4 +74,8 @@ h2 {
 	color: royalblue;
 	font-weight: bold;
 	text-decoration: none;
+}
+
+#web:hover, #pics:hover, #film:hover {
+	opacity: 0.7;
 }
