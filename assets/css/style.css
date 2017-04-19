@@ -42,7 +42,7 @@ h2 {
 
 /* Add a hover effect if you want */
 .fa:hover {
-    opacity: 0.7;
+    color: grey;
 }
 
 /* Set a specific color for each brand */
@@ -79,5 +79,5 @@ h2 {
 }
 
 #web:hover, #pics:hover, #film:hover {
-	opacity: 0.7;
+	color: white;
 }
