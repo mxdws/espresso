@@ -11,7 +11,9 @@ body {
 	background-size: cover;
 	background-position: center;
 	text-align: left;
-	font: 1em/1.65em 'Roboto', sans-serif;
+	font: 1em/1.65em;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   	font-weight: 300;
 	margin: 0 auto;
 	max-width: 50em;
 	line-height: 1.5;
@@ -20,7 +22,8 @@ body {
 
 
 h1, h2, h3, nav, body > footer, body > header .description, .button, .meta {
-	font-family: 'Roboto', sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   	font-weight: 300;
 }
 
 h2 {
