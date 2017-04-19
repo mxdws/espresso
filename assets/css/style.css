@@ -2,11 +2,12 @@
 body {
 	display: none;
 	height: 100vh;
-	
+/*
 	background-image: url('https://mxdws.github.io/onepage/assets/img/mxdbackg.jpg');
 	background-size: cover;
 	background-position: center;
-
+*/
+	background: purple;
 	margin: 0 auto;
 	max-width: 40em;
 	line-height: 1.5;
