@@ -60,3 +60,18 @@ h2 {
     color: white;
 }
 */ 
+
+.web, .web:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+.pics, .pics:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+.film, .film:visited {
+	color: green;
+	text-decoration: none;
+}
