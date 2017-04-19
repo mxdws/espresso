@@ -37,7 +37,7 @@ h2 {
     	width: 20px;
     	text-align: left;
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 /* Add a hover effect if you want */
@@ -73,7 +73,7 @@ h2 {
 }
 
 #film, #film:visited {
-	color: royalblue;
+	color: lime;
 	font-weight: bold;
 	text-decoration: none;
 }
