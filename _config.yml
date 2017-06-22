@@ -1,7 +1,7 @@
 # The blog configuration 
 
-name: mxdws
-description: Learning to design in the front end
+name: Espresso
+description: A simple, responsive landing page template with configurable social icons and background image.
 author: Martin
 permalink: /blog/:title/
 
